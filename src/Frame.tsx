@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import "./invalid"
-import "./frame.css"
 import invalidXkcds from "./invalid";
 
 
